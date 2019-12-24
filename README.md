@@ -1,2 +1,2 @@
 # Word Beater Game
-In this project we will build a speed typing game in JavaScript. We are not using any frameworks or libraries.
+A speed typing game in JavaScript. Not using any frameworks or libraries.
